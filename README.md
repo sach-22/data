@@ -10,3 +10,17 @@ This Dataset is the citywise air quality data of 26 major Indian cities, which i
 This Dataset has air quality data of different stations from different cities in India.
 
 ![image](https://github.com/sach-22/data/assets/134763588/91cd3f77-f81f-45e1-a2f2-a575b3276c02)
+
+Tools Used: 
+1.	Pandas, Numpy
+2.	pyodbc libraries 
+3.	EDA Techniques
+4.	MS SQL Server & Database 
+
+Plan to Execute:
+1.	Firstly I will extract raw data from available sources using Pandas library.
+2.	I will transform this data in the required format so that one can do data analysis to reach to the final conclusion.
+3.	I will then load this data to the dataset so that it can be used for Data analysis. 
+
+![image](https://github.com/sach-22/data/assets/134763588/b24d046a-db72-4019-9de1-2539e46e698d)
+
