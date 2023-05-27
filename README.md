@@ -24,3 +24,9 @@ Plan to Execute:
 
 ![image](https://github.com/sach-22/data/assets/134763588/b24d046a-db72-4019-9de1-2539e46e698d)
 
+![image](https://github.com/sach-22/data/assets/134763588/7da64f22-dcbd-4990-9720-a13f5e090962)
+
+![image](https://github.com/sach-22/data/assets/134763588/ef39dc81-e6b8-449f-83b5-88c7dd0ca52d)
+
+
+
